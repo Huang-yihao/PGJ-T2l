@@ -79,10 +79,13 @@ tencent_secret_key = "YOUR_TENCENT_SECRET_KEY" # Tencent Cloud SecretKey
 ## References
 
 ```
-@article{huang2024perception,
+@inproceedings{huang2025perception,
   title={Perception-guided jailbreak against text-to-image models},
   author={Huang, Yihao and Liang, Le and Li, Tianlin and Jia, Xiaojun and Wang, Run and Miao, Weikai and Pu, Geguang and Liu, Yang},
-  journal={arXiv preprint arXiv:2408.10848},
-  year={2024}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={25},
+  pages={26238--26247},
+  year={2025}
 }
 ```
