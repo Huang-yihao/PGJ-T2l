@@ -2,7 +2,7 @@
 
 # Perception-guided Jailbreak against Text-to-Image Models
 
-This is the official repository of  [[2408.10848\] Perception-guided Jailbreak against Text-to-Image Models](https://arxiv.org/abs/2408.10848)    The paper is accepted by AAAI 2025.
+This is the official repository of  [[2408.10848\] Perception-guided Jailbreak against Text-to-Image Models](https://arxiv.org/abs/2408.10848)    The paper is accepted by AAAI 2025 as oral.
 
 > **Perception-guided Jailbreak against Text-to-Image Models**  
 > Yihao Huang, Le Liang, Tianlin Li, Xiaojun Jia, Run Wang, Weikai Miao, Geguang Pu, and Yang Liu
